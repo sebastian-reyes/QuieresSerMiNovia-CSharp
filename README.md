@@ -1,6 +1,6 @@
-#¿Quieres ser mi novia?
+# ¿Quieres ser mi novia?
 Pequeño proyecto utilizando C# .NET Framework 4.7.2
-##Recomendaciones:
+## Recomendaciones:
 Debes tener instalado Visual Studio Code, no importa la versión.
 ## Introducción:
 Este proyecto tiene un panel principal donde se muestra la pregunta **¿Quieres Ser Mi Novia?**. Tendrás 2 opciones **"SÍ"**y**"NO"**.
