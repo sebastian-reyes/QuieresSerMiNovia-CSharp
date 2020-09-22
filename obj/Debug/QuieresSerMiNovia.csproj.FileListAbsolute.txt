@@ -1,0 +1,10 @@
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\bin\Debug\QuieresSerMiNovia.exe.config
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\bin\Debug\QuieresSerMiNovia.exe
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\bin\Debug\QuieresSerMiNovia.pdb
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.csprojAssemblyReference.cache
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.Properties.Resources.resources
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.csproj.GenerateResource.cache
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.csproj.CoreCompileInputs.cache
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.exe
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.pdb
+C:\Users\Sebastián\source\repos\QuieresSerMiNovia\obj\Debug\QuieresSerMiNovia.uwu.resources
